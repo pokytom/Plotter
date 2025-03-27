@@ -1,13 +1,4 @@
-﻿// --------------------------------------------------------------------------------------------------------------------
-// <copyright file="MainViewModel.cs" company="OxyPlot">
-//   Copyright (c) 2014 OxyPlot contributors
-// </copyright>
-// <summary>
-//   Represents the view-model for the main window.
-// </summary>
-// --------------------------------------------------------------------------------------------------------------------
-
-namespace Plotter
+﻿namespace Plotter
 {
     using OxyPlot;
     using OxyPlot.Series;
