@@ -126,19 +126,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pokyt\\.nuget\\packages\\": {}
+    "C:\\Users\\kaspa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\BSproVacka\\2DPlotter\\Plotter\\Plotter\\Plotter.csproj",
+      "projectUniqueName": "C:\\Users\\kaspa\\RiderProjects\\Plotter\\Plotter\\Plotter.csproj",
       "projectName": "Plotter",
-      "projectPath": "C:\\BSproVacka\\2DPlotter\\Plotter\\Plotter\\Plotter.csproj",
-      "packagesPath": "C:\\Users\\pokyt\\.nuget\\packages\\",
-      "outputPath": "C:\\BSproVacka\\2DPlotter\\Plotter\\Plotter\\obj\\",
+      "projectPath": "C:\\Users\\kaspa\\RiderProjects\\Plotter\\Plotter\\Plotter.csproj",
+      "packagesPath": "C:\\Users\\kaspa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kaspa\\RiderProjects\\Plotter\\Plotter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pokyt\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kaspa\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0-windows"
@@ -161,8 +161,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -188,24 +187,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.13, 8.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[8.0.13, 8.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.13, 8.0.13]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.13, 8.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -214,7 +195,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\pokyt\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\kaspa\\.dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
