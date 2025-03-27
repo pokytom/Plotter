@@ -35,10 +35,10 @@ namespace Plotter
 
             var series2 = new LineSeries { Title = "Series 2", MarkerType = MarkerType.Square };
             series2.Points.Add(new DataPoint(0, 4));
-            series2.Points.Add(new DataPoint(10, 12));
-            series2.Points.Add(new DataPoint(20, 18));
+            series2.Points.Add(new DataPoint(10, 10));
+            series2.Points.Add(new DataPoint(20, 13));
             series2.Points.Add(new DataPoint(30, 18));
-            series2.Points.Add(new DataPoint(40, 8));
+            series2.Points.Add(new DataPoint(40, 18));
 
 
             // Add the series to the plot model
