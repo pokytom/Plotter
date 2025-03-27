@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sAwd34/JzFY=",
+  "dgSpecHash": "83PPx+YB9tM=",
   "success": true,
   "projectFilePath": "C:\\BSproVacka\\2DPlotter\\Plotter\\Plotter\\Plotter.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\pokyt\\.nuget\\packages\\oxyplot.core\\2.2.0\\oxyplot.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\pokyt\\.nuget\\packages\\oxyplot.wpf\\2.2.0\\oxyplot.wpf.2.2.0.nupkg.sha512",
+    "C:\\Users\\pokyt\\.nuget\\packages\\oxyplot.wpf.shared\\2.2.0\\oxyplot.wpf.shared.2.2.0.nupkg.sha512",
     "C:\\Users\\pokyt\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
     "C:\\Users\\pokyt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
     "C:\\Users\\pokyt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",

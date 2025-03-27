@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Plotter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63bb5824197741233431458a749d56ad83484478")]
 [assembly: System.Reflection.AssemblyProductAttribute("Plotter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Plotter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
